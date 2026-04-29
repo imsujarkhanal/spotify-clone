@@ -157,3 +157,30 @@ nav{
     transform: scale(1.05);
     cursor: pointer;
 }
+
+/* main-left part */
+
+.main{
+    height:80vh;
+    width:100vw;
+    display:flex;
+    align-items: center;
+    margin-top:2px color black;
+    justify-content:space-around;
+    background-color:#000000;
+    color:white;
+}
+
+.main-left{
+    height:98%;
+    width:27%;
+    background-color:#1f1f1f;
+    border-radius: 7px;
+}
+
+.main-right-part{
+    height:98%;
+    width:72%;
+    background-color:#1f1f1f;
+    border-radius: 7px;
+}
