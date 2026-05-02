@@ -201,7 +201,7 @@ nav{
 .library span{
     font-size: 2rem;
     color:rgb(0, 0, 0);
-    background-color: #a7a7a7;
+    background-color: #ffffff;
     padding:10px;
     height:2rem;
     width:2rem;
@@ -214,7 +214,7 @@ nav{
 }
 
 .library span:hover{
-    background-color: #777676;
+    background-color: #afafaf;
     transform: scale(1.05);
     cursor: pointer;
 }
@@ -244,7 +244,7 @@ nav{
 .box button{
     font-weight: 600;
     color: #000000;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding:0.6rem 0.8rem;
     margin:1rem 0 1.5rem 1rem;
     border-radius: 25rem;
