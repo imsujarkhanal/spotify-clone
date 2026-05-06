@@ -328,6 +328,9 @@ nav{
     transition: 0.5s;
 }
 
+
+/* player bar section */
+
 .player-bar{
 width: 100%;
 height: 5rem;
